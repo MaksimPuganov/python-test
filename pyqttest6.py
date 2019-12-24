@@ -40,12 +40,12 @@ class Example(QWidget):
 
         qbtn = QPushButton('Quit', self)
         qbtn.clicked.connect(QtCore.QCoreApplication.quit)
-        qbtn.move(170, 140)
+        qbtn.move(170, 600)
         # self.button = qbtn
         # qbtn.show()
 
         self.square = QFrame(self)
-        self.square.setGeometry(150, 20, 100, 100)
+        self.square.setGeometry(150, 20, 500, 500)
         self.square.setStyleSheet("QWidget { background-color: %s }" %
             self.col.name())
 

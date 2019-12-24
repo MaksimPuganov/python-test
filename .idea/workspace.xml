@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1030167-2e6d-46f3-9bc8-c3b889bac378" name="Default Changelist" comment="" />
+    <list default="true" id="b1030167-2e6d-46f3-9bc8-c3b889bac378" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqttest6.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyqttest6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +18,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SFMolswv6CWKGoMaeuDnUJNJFS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="GitLabConfigurableProvider" />
   </component>
   <component name="RunManager" selected="Python.pyqttest6">
     <configuration name="pyqttest1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -165,27 +174,46 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="580" y="252" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577105407775">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="580" y="252" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577105407775" />
     <state x="2403" y="195" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1600.900/0.34.1920.1046@1920.0.1600.900" timestamp="1576572008078" />
-    <state width="1874" height="262" key="GridCell.Tab.0.bottom" timestamp="1577182999392">
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1577198991679">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="262" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577182999392" />
-    <state width="1874" height="262" key="GridCell.Tab.0.center" timestamp="1577182999392">
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577198991679" />
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom" timestamp="1577198728960">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="262" key="GridCell.Tab.0.center/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577182999392" />
-    <state width="1874" height="262" key="GridCell.Tab.0.left" timestamp="1577182999392">
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577198728960" />
+    <state width="1874" height="262" key="GridCell.Tab.0.center" timestamp="1577198728960">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="262" key="GridCell.Tab.0.left/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577182999392" />
-    <state width="1874" height="262" key="GridCell.Tab.0.right" timestamp="1577182999392">
+    <state width="1874" height="262" key="GridCell.Tab.0.center/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577198728960" />
+    <state width="1874" height="262" key="GridCell.Tab.0.left" timestamp="1577198728960">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="262" key="GridCell.Tab.0.right/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577182999392" />
+    <state width="1874" height="262" key="GridCell.Tab.0.left/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577198728960" />
+    <state width="1874" height="262" key="GridCell.Tab.0.right" timestamp="1577198728960">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1874" height="262" key="GridCell.Tab.0.right/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577198728960" />
+    <state x="449" y="175" width="1022" height="732" key="SettingsEditor" timestamp="1577198736886">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="449" y="175" width="1022" height="732" key="SettingsEditor/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577198736886" />
   </component>
 </project>
