@@ -21,18 +21,18 @@ class _Bar(QtWidgets.QWidget):
         vmin, vmax = dial.minimum(), dial.maximum()
         value = dial.value()
 
-        padding = 5
+        padding = 3
         # Define our canvas.
         d_height = painter.device().height() - (padding * 2)
         d_width = painter.device().width() - (padding * 2)
 
         # Draw the bars.
-        step_size = d_height / 5
-        bar_height = step_size * 0.6
+        step_size = d_height / 10
+        bar_height = step_size * 0.75
         bar_spacer = step_size * 0.4 / 2
 
         pc = (value - vmin) / (vmax - vmin)
-        n_steps_to_draw = int(pc * 5)
+        n_steps_to_draw = int(pc * 10)
         brush.setColor(QtGui.QColor('red'))
         for n in range(n_steps_to_draw):
             rect = QtCore.QRect(

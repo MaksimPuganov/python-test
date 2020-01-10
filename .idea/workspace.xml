@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1030167-2e6d-46f3-9bc8-c3b889bac378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/power_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/power_bar_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqttest7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/power_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/power_bar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +32,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="GitLabConfigurableProvider" />
   </component>
-  <component name="RunManager" selected="Python.power_bar_gui">
-    <configuration name="power_bar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.net">
+    <configuration name="net" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,28 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/power_bar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="power_bar_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/power_bar_gui.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/net.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,13 +121,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pyqttest7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqttest7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.power_bar_gui" />
-        <item itemvalue="Python.power_bar" />
+        <item itemvalue="Python.net" />
+        <item itemvalue="Python.pyqttest7" />
         <item itemvalue="Python.pyqttest1" />
-        <item itemvalue="Python.pyqttest6" />
         <item itemvalue="Python.pyqttest2" />
+        <item itemvalue="Python.pyqttest6" />
       </list>
     </recent_temporary>
   </component>
@@ -179,45 +182,55 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="252" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577105407775">
+    <state x="580" y="252" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578584954598">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="580" y="252" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577105407775" />
+    <state x="580" y="252" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1578584954598" />
     <state x="2403" y="195" width="624" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1600.900/0.34.1920.1046@1920.0.1600.900" timestamp="1576572008078" />
+    <state x="564" y="49" width="781" height="984" key="CommitChangelistDialog2" timestamp="1577203925434">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="564" y="49" width="781" height="984" key="CommitChangelistDialog2/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577203925434" />
     <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1577198991679">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577198991679" />
-    <state width="1874" height="262" key="GridCell.Tab.0.bottom" timestamp="1577203771033">
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom" timestamp="1578667199444">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="262" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577203771033" />
-    <state width="1874" height="262" key="GridCell.Tab.0.center" timestamp="1577203771032">
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1578667199444" />
+    <state width="1874" height="262" key="GridCell.Tab.0.center" timestamp="1578667199444">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="262" key="GridCell.Tab.0.center/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577203771032" />
-    <state width="1874" height="262" key="GridCell.Tab.0.left" timestamp="1577203771032">
+    <state width="1874" height="262" key="GridCell.Tab.0.center/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1578667199444" />
+    <state width="1874" height="262" key="GridCell.Tab.0.left" timestamp="1578667199444">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="262" key="GridCell.Tab.0.left/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577203771032" />
-    <state width="1874" height="262" key="GridCell.Tab.0.right" timestamp="1577203771033">
+    <state width="1874" height="262" key="GridCell.Tab.0.left/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1578667199444" />
+    <state width="1874" height="262" key="GridCell.Tab.0.right" timestamp="1578667199444">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1874" height="262" key="GridCell.Tab.0.right/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577203771033" />
+    <state width="1874" height="262" key="GridCell.Tab.0.right/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1578667199444" />
     <state x="449" y="175" width="1022" height="732" key="SettingsEditor" timestamp="1577198736886">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="449" y="175" width="1022" height="732" key="SettingsEditor/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577198736886" />
-    <state x="555" y="272" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1577202210015">
+    <state x="555" y="272" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1578667224196">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="555" y="272" width="800" height="538" key="Vcs.Push.Dialog.v2/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577202210015" />
+    <state x="555" y="272" width="800" height="538" key="Vcs.Push.Dialog.v2/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1578667224196" />
+    <state x="726" y="455" width="467" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577203890250">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="726" y="455" width="467" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1600.900/0.23.1920.1057@0.23.1920.1057" timestamp="1577203890250" />
   </component>
 </project>
